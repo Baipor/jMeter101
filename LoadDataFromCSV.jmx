@@ -17,7 +17,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">1</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">10</stringProp>
+        <stringProp name="ThreadGroup.num_threads">20</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <longProp name="ThreadGroup.start_time">1364096825000</longProp>
         <longProp name="ThreadGroup.end_time">1364096825000</longProp>
@@ -30,7 +30,7 @@
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="filename">D:\\Somkiat\\training\\jmeter\\jMeter101\\userprofile.csv</stringProp>
-          <boolProp name="quotedData">false</boolProp>
+          <boolProp name="quotedData">true</boolProp>
           <boolProp name="recycle">true</boolProp>
           <stringProp name="shareMode">All threads</stringProp>
           <boolProp name="stopThread">false</boolProp>
